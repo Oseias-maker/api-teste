@@ -1,0 +1,8 @@
+{ 
+"produtos": [ 
+{ "id": 1, "titulo": "Delux m700", "codigo": "150" }, 
+{ "id": 2, "titulo": "Redragon Dark Avenger Lunar White", "codigo": "335" }, 
+{ "id": 3, "titulo": "Ryzen 5 2400G", "codigo": "1120" }, 
+{ "id": 4, "titulo": "B450m Aorus Elite", "codigo": "660" } 
+               ]
+}
